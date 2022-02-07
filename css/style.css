@@ -13,7 +13,7 @@ input.searche {
 input.searche::placeholder {
   font-size: 14px;
   color: gray;
-  background-image: url(/bootstraplinkedinclone/assets/search-solid.svg);
+  background-image: url(/assets/search-solid.svg);
   background-repeat: no-repeat;
   background-size: 7%;
 }
@@ -28,6 +28,7 @@ input.searche::placeholder {
   color: gray;
   margin-top: 5px;
   font-weight: lighter;
+
 }
 
 .menutext:hover {
@@ -65,7 +66,7 @@ input.content::placeholder {
   font-weight: bolder;
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url(/bootstraplinkedinclone/assets/edit-regular.svg);
+  background-image: url(/assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: auto;
 }
